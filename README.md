@@ -1,3 +1,6 @@
+> ⚠️ **ТРЕБУЕТСЯ SUBSTRACTION PATCH 7.0.5 VERSION**
+
+
 # ❄️ Snow Remnawave
 
 Этот скрипт добавляет эффект снега в **Remnawave**.  
