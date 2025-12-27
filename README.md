@@ -8,4 +8,4 @@
 ## 🎥 Видео-пример
 
 *(замени ссылку на путь к видео в репозитории)*  
-https://github.com/zakachkin/snow-remnawave/demo.mp4
+https://github.com/zakachkin/snow-remnawave/demo.gif
